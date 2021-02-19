@@ -33,11 +33,19 @@ sh adjust-brightness.sh show
 To increase the brightness:
 
 ```
+# As root.
 sh adjust-brightness.sh up
+
+# Or using sudo.
+sudo sh adjust-brightness.sh up
 ```
 
 To decrease the brightness:
 
 ```
+# As root.
 sh adjust-brightness.sh down
+
+# Or using sudo.
+sudo sh adjust-brightness.sh down
 ```
